@@ -1,5 +1,5 @@
 # Lista de Convidados
-[![NPM](https://img.shields.io/npm/l/react)](https://github.com/GlauberAnjos/gestao-festa/blob/main/LICENSE) 
+(https://github.com/GlauberAnjos/gestao-festa/blob/main/LICENSE) 
 
 # Sobre o projeto
 
