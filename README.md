@@ -8,11 +8,8 @@ Onde teremos o nome do convidado principal e a quantidade de acompanhantes que e
 Na aplicação, teremos uma tela com dois campos de entrada de texto, um para informar o nome do convidado e o outro para a quantidade
 de acompanhantes.
 
-## Layout mobile
-![Mobile 1](https://github.com/acenelio/assets/raw/main/sds1/mobile1.png) ![Mobile 2](https://github.com/acenelio/assets/raw/main/sds1/mobile2.png)
-
 ## Layout web
-![Web 1](https://github.com/acenelio/assets/raw/main/sds1/web1.png)
+![Web 1] ![image](https://github.com/GlauberAnjos/gestao-festa/assets/130393334/731188a7-2a77-4911-a8b3-d7dd28fe8c7c)
 
 ![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
 
@@ -36,10 +33,6 @@ Pré-requisitos: Java 17
 ```bash
 # clonar repositório
 git clone https://github.com/GlauberAnjos/gestao-festa.git
-
-```bash
-# clonar repositório
-git clone https://github.com/devsuperior/sds1-wmazoni
 
 # Instalar as dependências necessárias através do maven
 mvn clean install
