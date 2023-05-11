@@ -9,7 +9,7 @@ Na aplicação, teremos uma tela com dois campos de entrada de texto, um para in
 de acompanhantes.
 
 ## Layout web
-![Web 1] ![image](https://github.com/GlauberAnjos/gestao-festa/assets/130393334/731188a7-2a77-4911-a8b3-d7dd28fe8c7c)
+![image](https://github.com/GlauberAnjos/gestao-festa/assets/130393334/731188a7-2a77-4911-a8b3-d7dd28fe8c7c)
 
 # Tecnologias utilizadas
 ## Back end
