@@ -11,8 +11,6 @@ de acompanhantes.
 ## Layout web
 ![Web 1] ![image](https://github.com/GlauberAnjos/gestao-festa/assets/130393334/731188a7-2a77-4911-a8b3-d7dd28fe8c7c)
 
-![Web 2](https://github.com/acenelio/assets/raw/main/sds1/web2.png)
-
 # Tecnologias utilizadas
 ## Back end
 - Java
